@@ -8,20 +8,20 @@ const memberProfiles = [
     skills: ["HTML", "CSS", "JavaScript"],
   },
   {
-    cname: "NABILAH LUTHFIYYAH",
+    cname: "NABILA RAMADHANTY",
+    name: "Backend Developer",
+    education: "Sistem Informasi · Universitas Hasanuddin",
+    description:
+      "Berfokus pada pengelolaan infrastruktur data dan logika balik layar untuk menghasilkan produk digital yang efisien dan skalabel.",
+    skills: ["Backend Dev", "Database", "Arsitektur Sistem"],
+  },
+  {
+    cname: "AULIA INSANI H",
     name: "UI/UX Designer",
     education: "Sistem Informasi · Universitas Hasanuddin",
     description:
       "Berfokus pada desain antarmuka dan pengalaman pengguna untuk menghasilkan produk digital yang intuitif.",
     skills: ["Figma", "UI/UX", "Prototyping"],
-  },
-  {
-    cname: "NABILAH LUTHFIYYAH",
-    name: "Project Analyst",
-    education: "Sistem Informasi · Universitas Hasanuddin",
-    description:
-      "Berfokus pada analisis kebutuhan, perencanaan, dan kolaborasi dalam pengembangan proyek digital.",
-    skills: ["Analysis", "Planning", "Teamwork"],
   },
 ];
 
