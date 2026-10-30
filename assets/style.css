@@ -690,7 +690,8 @@ body {
 
 footer {
   text-align: center;
-  padding: 10px;
+  justify-content: center;
+  padding: 20px;
   font-size: 14px;
   background-color: #f2efe7; 
   color: #000000;             
