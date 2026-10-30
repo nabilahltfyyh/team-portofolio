@@ -687,3 +687,16 @@ body {
     animation: none !important;
   }
 }
+
+footer {
+  text-align: center;
+  padding: 10px;
+  font-size: 14px;
+  background-color: #f2efe7; 
+  color: #000000;             
+}
+
+footer p {
+  margin: 0;
+}
+
